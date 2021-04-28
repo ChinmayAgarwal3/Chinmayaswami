@@ -4,11 +4,15 @@
   "name": "Chinmay Agarwal",
   "userimg": "https://avatars.githubusercontent.com/u/50285482?v=4",
   "sort": "star",
-  "order": "desc",
-  "includeFork": false,
+  "order": "asc",
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": "@chinmayagarwal7",
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
